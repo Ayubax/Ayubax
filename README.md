@@ -21,6 +21,6 @@
 
 ### Как вы можете со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Ayub)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Ayubax)
 
 
