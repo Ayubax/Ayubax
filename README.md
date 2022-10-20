@@ -26,6 +26,10 @@
   
 - Веб-приложение для фриланса
   <a href="https://github.com/Ayubax/freelance-front">Code-Front</a> | <a href="https://github.com/Ayubax/freelance-back">Code-Back</a>
+  
+- Веб-приложение с для любителей поесть -
+  <a href="https://github.com/Ayubax/Revizor-front">Code-Front</a> |
+  <a href="https://github.com/Ayubax/Revizor-back">Code-Back</a> 
 ---
 
 ### Как вы можете со мной связаться:
