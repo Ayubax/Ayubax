@@ -20,6 +20,10 @@
 
 ### Мои проекты:
 
+- Web-application for international freight (Веб-приложение для международных грузоперевозок) -
+  <a href="https://github.com/Ayubax/Truck-Front">Code-Front Грузоперевозки </a> |
+  <a href="https://github.com/Ayubax/Truck-Back">Code-Back</a> 
+
 ---
 
 ### Как вы можете со мной связаться:
