@@ -23,7 +23,10 @@
 - Веб-приложение для грузоперевозок -
   <a href="https://github.com/Ayubax/Truck-Front">Code-Front</a> |
   <a href="https://github.com/Ayubax/Truck-Back">Code-Back</a> 
-
+  
+- Веб-приложение для фриланса
+  <a href="https://github.com/Ayubax/freelance-front">Code-Front</a>   
+  <a href="https://github.com/Ayubax/freelance-back">Code-Back</a>
 ---
 
 ### Как вы можете со мной связаться:
